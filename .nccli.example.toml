@@ -1,0 +1,4 @@
+[nextcloud]
+url = "https://nc.example.com/"
+username = "username"
+password = "password"
